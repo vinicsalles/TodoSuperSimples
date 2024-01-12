@@ -1,0 +1,22 @@
+body{
+    display: grid;
+    justify-content: center;
+    background-color: #ccc;
+    font-family: Helvetica;
+}
+
+.form-container{
+    display: grid;
+    gap: 2rem;
+    padding: 5rem;
+    margin: 2rem;
+    background-color: #f9f9f9;
+    border-radius: 0.5rem;
+    text-align: center;
+}
+
+h2{
+    border: 1px solid #ccc;
+    padding: 3px;
+    margin: 1rem 0;
+}
